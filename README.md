@@ -1,5 +1,4 @@
-# Syntecxhub_Bank_Loan_Analysis Dashboard 🏦
-Bank Loan Analysis using MySQL + Power BI — Syntecxhub Internship Week 4
+# Bank Loan Analysis Dashboard 🏦
 
 An end-to-end Bank Loan Analysis project using MySQL for data 
 exploration and Power BI for interactive dashboard visualization.
