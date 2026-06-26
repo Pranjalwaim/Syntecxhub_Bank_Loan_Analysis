@@ -33,7 +33,7 @@ loan approval and repayment.
 - Total amount received ($473M) exceeds funded amount ($436M)
 
 ## 📷 Dashboard Preview
-![Dashboard](screenshots/Bank_Loan_Analysis.png)
+![Dashboard](screenshots/dashboard_preview.png)
 
 ## 🗄️ SQL Queries
 All KPI and analysis queries are available in SQL_Queries.sql
